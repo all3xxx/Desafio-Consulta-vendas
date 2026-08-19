@@ -78,6 +78,8 @@ O sistema deverá retornar uma `listagem` contendo
 
 <img width="664" height="735" alt="Image" src="https://github.com/user-attachments/assets/c0a48621-2a4c-4d95-8f47-b80ced177014" />
 
+- `Observação`: o ID da venda para o teste 2 pode mudar de acordo com atualizações no seed do banco de dados fornecido pela plataforma
+
 ### Sumário de vendas
 
 <img width="1152" height="648" alt="Image" src="https://github.com/user-attachments/assets/0f22cb70-f731-4ee2-b262-a58416021020" />
